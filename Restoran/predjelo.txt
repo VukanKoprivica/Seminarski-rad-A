@@ -1,0 +1,13 @@
+01|govedja supa|govedja supa,rezanca|160
+02|teleca corba| |230
+03|pohovana paprika sa sirom|200g|300
+04|pohovan kackavalj|200g|360
+05|balkanski tanjir za dve osobe|njeguska,kulen,pecenica,sir,ajvar|800
+06|njeguska prsut|100g|520
+07|govedja prsut|100g|490
+08|svinjska pecenica|100g|390
+09|kulen|100g|250
+10|sjenicki sir|150g|250
+11|kajmak|100g|290
+12|feta sir|100g|190
+13|gorgonzola|100g|390

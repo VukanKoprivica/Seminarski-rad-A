@@ -1,0 +1,31 @@
+100|espresso|produzeni-kratki|114
+101|domaca kafa|samba|99
+102|topla cokolada|crna-bela|159
+103|kuvano vino|crveno-belo|189
+104|next jabuka|0.20l|154
+105|next breskva|0.20l|154
+106|next sumsko voce|0.20l|154
+107|next jagoda|0.20l|154
+108|next pomorandza|0.20l|154
+109|cedevita|0.25l,limun,narandza|134
+110|limunada|0.30l|134
+111|cedjena narandza|0.30l|209
+112|cedjeni grejp|0.30l|209
+113|caj nana|0.25l|99
+114|caj kamilica|0.25l|99
+115|caj divlja tresnja|0.25l|99
+116|coca cola|0.25l|154
+117|coca cola zero|0.25l|154
+118|fanta|0.25l|154
+119|sprite|0.25l|154
+120|cockta|0.275l|154
+121|guarana|0.25l|179
+122|red bull|0.25l|179
+123|voda voda|0.33l|109
+124|voda voda|0.75l|249
+125|lav|0.33l|160
+126|tuborg|0.33l|180
+127|carlsberg|0.33l|180
+128|budweiser|0.33l|190
+129|budweiser tamni|0.33l|190
+130|toceni tuborg|0.33l|140 

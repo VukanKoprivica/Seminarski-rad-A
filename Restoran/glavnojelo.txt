@@ -1,0 +1,25 @@
+20|cevapi|350g|580
+21|cevapi sa kajmakom|cevapi i kajmak|710
+22|pljeskavica|300g|590
+23|pljeskavica sa kajmakom|pljeskavica i kajmak|710
+24|gurmanska pljeskavica|350g|650
+25|dimljeni svinjski vrat|320g|790
+26|dimljene domace kobasice|300g|590
+27|leskovacki ustipci|300g|650
+28|pileci file na zaru|300g|720
+29|cureci file na zaru|300g|730
+30|rolovana piletina u slanini|350g|710
+31|dimljeni batak sa kajmakom|250g|690
+32|raznjici|svinjski-pileci 300g|710
+33|bela vesalica|300g|650
+34|mesano meso|600g |1190
+35|punjena bela vesalica|350g|800
+36|rolovana punjena bela vesalica|300g|890
+37|ramstek na zaru|300g|890
+38|ramstek u sosu|300g|990
+39|jueci gulas|250g|650
+40|telece pecenje|300g|1090
+41|dimljene butkice u renu|300g|890
+42|rebra na krompiru sa kajmakom|350g|650
+43|jagnjece pecenje sa raznja|1kg|1900
+44|prasece pecenje sa raznja|1kg|1400

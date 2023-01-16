@@ -1,0 +1,5 @@
+60|coko kolac|200g|290
+61|krempita|200g|290
+62|cokoladni sufle|200g|390
+63|sladoled|kugla|70
+64|palacinke|nutela,evrokrem,plazma,dzem|250

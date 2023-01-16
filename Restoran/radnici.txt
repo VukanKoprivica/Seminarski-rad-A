@@ -1,0 +1,4 @@
+Petar|Vujicic|pero|123
+Tatijana|Trifunovic|taca|654
+Ugljesa|Vojvodic|crni|789
+Stefan|Ristic|rile|558
